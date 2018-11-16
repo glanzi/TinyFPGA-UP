@@ -7,8 +7,8 @@ encoding utf-8
 Sheet 1 1
 Title "TinyFPGA UP"
 Date "2018-11-15"
-Rev ""
-Comp ""
+Rev "A"
+Comp "HB9GPC"
 Comment1 ""
 Comment2 ""
 Comment3 ""
